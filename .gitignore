@@ -1,0 +1,20 @@
+target/
+
+### IntelliJ IDEA ###
+*.log
+.idea
+*.iws
+*.iml
+*.ipr
+将删除 src/main/java/com/jchen/DataBase/
+将删除 src/main/java/com/jchen/PyStu/
+将删除 src/main/java/com/jchen/UtilScripts/python/
+将删除 src/main/java/com/jchen/algorithm/mooc1/sort/
+将删除 src/main/java/com/jchen/javaStu/concurrent/actConcurrent/
+将删除 src/main/java/com/jchen/javaStu/concurrent/blog/JUCatom/
+将删除 src/main/java/com/jchen/javaStu/network/
+将删除 src/main/java/com/jchen/javaStu/reflection/
+将删除 src/main/resources/static/
+将删除 src/main/resources/templates/
+/mvnw.cmd
+mvnw
